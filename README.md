@@ -65,4 +65,9 @@ Trabalhando com o _express_ no servidor NodeJS e recebendo informações atravé
 - Organizando a estrutura de arquivos
 - Trabalhando com o conceito de rotas e controladores
 
+## Aula 09 - 27/04/2021
+- Trabalhando com _express.Router()_
+- Simulando via _postman_ e servidor a validação de usuário e senha para login
+- Conhecendo o conceito de _middleware_ para acesso a áreas restritas
+
 ***Professor: Rodrigo Escobar***
