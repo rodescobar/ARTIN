@@ -1,0 +1,27 @@
+[
+    {
+        "nome": "Notebook",
+        "marca": "Dell",
+        "descricao": "sdasd as dasd asd asd asd ada"
+    },
+    {
+        "nome": "Notebook",
+        "marca": "Dell",
+        "descricao": "sdasd as dasd asd asd asd ada"
+    },
+    {
+        "nome": "Teclado",
+        "marca": "Lenovo",
+        "descricao": "teclado lenovo"
+    },
+    {
+        "nome": "Mouse",
+        "marca": "Microsoft",
+        "descricao": "mouse sem fio"
+    },
+    {
+        "nome": "Tablet",
+        "marca": "Samsung",
+        "descricao": "tablet que trava pq tem android"
+    }
+]

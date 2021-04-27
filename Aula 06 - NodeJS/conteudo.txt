@@ -1,0 +1,13 @@
+Para iniciar um novo prohjeto em Node, utilize o comando 
+> npm init
+
+Após isso, execute o npm install para criar o arquivo package-lock.json
+> npm install
+
+Para executar o servidor, o comando é
+> node index.js
+
+Variáveis em JS
+> var (variáveis globais dentro do arquivo)
+> let (variável "presa" ao contexto)
+> const (variável que não pode ter seu valor alterado)

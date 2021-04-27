@@ -1,0 +1,49 @@
+[
+    {
+        "nome": "Fulano",
+        "dataNasc": "25/02/2007"
+    },
+    {
+        "nome": "Deltrano",
+        "dataNasc": "04/08/2002"
+    },
+    {
+        "nome": "Maria José",
+        "sexo": "Feminino",
+        "dataNasc": null
+    },
+    {
+        "marca": "Chevrolet",
+        "modelo": "Corsa",
+        "ano": 2010,
+        "km": 115242,
+        "motor": 1.0,
+        "perdaTotal": true,
+        "motoristas": [
+            "Priscila",
+            "Rodrigo Filho",
+            "Eduardo"
+        ],
+        "pneus": [
+            [ "Pirelli", "seminovo" ],
+            [ "Pirelli", "careca" ],
+            [ "Firestone", "careca" ],
+            [ "Goodyer", "no arame"]
+        ],
+        "danos": [
+            {
+                "item": "Paralama dianteiro",
+                "monta": "Perda total"
+            },
+            {
+                "item": "Bancoi do motorista",
+                "estado": "Bom"
+            },
+            {
+                "item": "Parabrisa",
+                "isulfim": false,
+                "medida": "3mm"
+            }
+        ]
+    }    
+]
