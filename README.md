@@ -73,6 +73,8 @@ Trabalhando com o _express_ no servidor NodeJS e recebendo informações atravé
 ## Aula 10 - 04/05/2021
 - Criação de banco de dados em mongo na nuvem 
 - Instalação do moongose para trabalhar com o banco de dados
+> npm install --save mongoose
+
 - Conexão no banco de dados criado
 - Criação de um usuário
 - Lista de usuários cadastrados
