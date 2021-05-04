@@ -70,4 +70,12 @@ Trabalhando com o _express_ no servidor NodeJS e recebendo informações atravé
 - Simulando via _postman_ e servidor a validação de usuário e senha para login
 - Conhecendo o conceito de _middleware_ para acesso a áreas restritas
 
+## Aula 10 - 04/05/2021
+- Criação de banco de dados em mongo na nuvem 
+- Instalação do moongose para trabalhar com o banco de dados
+- Conexão no banco de dados criado
+- Criação de um usuário
+- Lista de usuários cadastrados
+- Simulação de efetivação de login com consulta ao banco
+
 ***Professor: Rodrigo Escobar***
