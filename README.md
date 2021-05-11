@@ -80,4 +80,10 @@ Trabalhando com o _express_ no servidor NodeJS e recebendo informações atravé
 - Lista de usuários cadastrados
 - Simulação de efetivação de login com consulta ao banco
 
+## Aula 11 - 11/05/2021
+- Separação do site em area restrita e login através de middleware
+- Criação de token e adição de itens ao token com o jsonwebtoken
+- Trabalhando com variáveis de ambiente usando o dotenv
+> npm install --save dotenv jsonwebtoken
+
 ***Professor: Rodrigo Escobar***
