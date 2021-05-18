@@ -86,4 +86,22 @@ Trabalhando com o _express_ no servidor NodeJS e recebendo informações atravé
 - Trabalhando com variáveis de ambiente usando o dotenv
 > npm install --save dotenv jsonwebtoken
 
+## Aula 12 - 18/05/2021
+- Criação de conta no site heroku.com
+- Criando a primeira aplicação
+- Sequencia de comandos
+
+- Dentro do terminal do VSCODE, se conectar com sua conta do heroku
+> heroku login
+- Iniciando repo git
+> git init
+- Interligando sua aplicação com o git do heroku
+> heroku git:clone -a professor-artin
+- Subindo aplicação para o heroku
+> git add .
+> git commit -m "Primeira deploy"
+> git push heroku master
+
+- Não esquecer de criar as variaveis globais (.ENV) no site do heroku
+
 ***Professor: Rodrigo Escobar***
