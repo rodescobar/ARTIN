@@ -104,4 +104,11 @@ Trabalhando com o _express_ no servidor NodeJS e recebendo informações atravé
 
 - Não esquecer de criar as variaveis globais (.ENV) no site do heroku
 
+## Aula 13 - 25/05/2021
+- Verificação e validação de Token no middleware
+- Adição de mensagem de página não encontrada
+
+## Aula 13 - 25/05/2021 - Trabalho
+- Trabalho para ser entregue até o dia 01/06/2021
+
 ***Professor: Rodrigo Escobar***
