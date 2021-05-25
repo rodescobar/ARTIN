@@ -99,7 +99,9 @@ Trabalhando com o _express_ no servidor NodeJS e recebendo informações atravé
 > heroku git:clone -a professor-artin
 - Subindo aplicação para o heroku
 > git add .
+
 > git commit -m "Primeira deploy"
+
 > git push heroku master
 
 - Não esquecer de criar as variaveis globais (.ENV) no site do heroku
