@@ -113,4 +113,12 @@ Trabalhando com o _express_ no servidor NodeJS e recebendo informações atravé
 ## Aula 13 - 25/05/2021 - Trabalho
 - Trabalho para ser entregue até o dia 01/06/2021
 
+## Aula 14 - 01/06/2021
+- Geração de chave para troca de senha
+- Envio de e-mail
+
+## Aula 15 - 08/06/2021
+- Acerto HTML do e-mail
+- Troca de senha com chave
+
 ***Professor: Rodrigo Escobar***
