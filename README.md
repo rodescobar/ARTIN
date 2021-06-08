@@ -121,4 +121,7 @@ Trabalhando com o _express_ no servidor NodeJS e recebendo informações atravé
 - Acerto HTML do e-mail
 - Troca de senha com chave
 
+## Aula 16 - 15/06/2021
+- trabalho CRUD
+
 ***Professor: Rodrigo Escobar***
