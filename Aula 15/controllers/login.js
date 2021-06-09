@@ -25,7 +25,12 @@ route.post("/login", async (req, res) => {
             }, process.env.CHAVE_SEGUR, { expiresIn: 86400 } );
         
         
-            return res.send({ token })
+            return res.send(
+                { 
+                    token,
+                    nome: dados.nome
+                }
+            )
         }
         else
             return res.send("Senha inválida")
@@ -58,7 +63,8 @@ route.post("/esquecisenha", async (req, res) => {
 
     
     retorno.chave = texto
-    const ret = await Usuario.updateOne({ _id: retorno._id }, { $set: { chave: retorno.chave }})
+    const ret = await Usuario.updateOne({ _id: retorno._id }, 
+        { $set: { chave: retorno.chave }})
         
     res.send( "Um e-mail foi enviado para você troca a senha" )
 
@@ -103,7 +109,8 @@ route.post("/confirmasenha", async (req, res) => {
         return false
     }
 
-    var retorno = Usuario.updateOne({ _id: dados._id }, { $set: { senha }})
+    var retorno = Usuario.updateOne({ _id: dados._id }, 
+        { $set: { senha }})
 
     await Email.enviar(retorno.email, "", 
         retorno.nome, "senhaAlterada")

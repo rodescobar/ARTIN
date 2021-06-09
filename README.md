@@ -122,6 +122,6 @@ Trabalhando com o _express_ no servidor NodeJS e recebendo informações atravé
 - Troca de senha com chave
 
 ## Aula 16 - 15/06/2021
-- trabalho CRUD
+- Início da construção da aplicação que deverá ser entregue até o dia 22/06/2021 como avaliação da disciplina 
 
 ***Professor: Rodrigo Escobar***
