@@ -124,4 +124,7 @@ Trabalhando com o _express_ no servidor NodeJS e recebendo informações atravé
 ## Aula 16 - 15/06/2021
 - Início da construção da aplicação que deverá ser entregue até o dia 22/06/2021 como avaliação da disciplina 
 
+## Aula 16 AVALIAÇÃO - 22/06/2021
+- DATA DE ENTREGA ALTERADA PARA O DIA 29/06/2021
+
 ***Professor: Rodrigo Escobar***
